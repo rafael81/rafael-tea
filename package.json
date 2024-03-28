@@ -1,6 +1,6 @@
 {
   "name": "rafael-greet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tea OSS incorporates professional-grade mean calculations, featuring advanced functionalities to effortlessly and accurately handle total computations of randomly selected numbers.  ",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
-
+    "zknowa-oss": "^1.0.0",
 
     "rafael-greet": "^1.0.1",
 
