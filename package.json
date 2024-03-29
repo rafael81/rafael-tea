@@ -9,7 +9,7 @@
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
-    "zknowa-oss": "^1.0.0",
+    "zknowa-oss": "^1.0.1",
 
     "rafael-greet": "^1.0.3",
 
