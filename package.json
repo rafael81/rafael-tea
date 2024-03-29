@@ -27,11 +27,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rafael-greet/rafael-greet.git"
+    "url": "https://github.com/rafael81/rafael-greet.git"
   },
-  "homepage": "https://github.com/rafael-greet/rafael-greet/blob/main/README.md",
+  "homepage": "https://github.com/rafael81/rafael-greet/blob/main/README.md",
 
-  "issues": "https://github.com/rafael-greet/rafael-greet/issues",
+  "issues": "https://github.com/rafael81/rafael-greet/issues",
 
   "keywords": ["random", "number", "generator"],
 
